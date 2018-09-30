@@ -1,0 +1,6 @@
+The two bugs identified in the program are:
+
+    1. Conditional jump or move depends on uninitialised value(s) at 0x401DC7: main (main.cpp:9). bool terminator is uninitialized
+    2. Memory leak at AnalogSensor::Read() (AnalogSensor.cpp:16). The vector memory allocator for "readings" was not deleted after use.
+
+These two bugs have been fixed.
