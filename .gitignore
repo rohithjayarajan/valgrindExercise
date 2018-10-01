@@ -1,6 +1,11 @@
 # VS Code files
 *.VC.db*
 
+#project files
+.cproject
+.project
+.settings/language.settings.xml
+
 # OS X files
 .DS_Store
 
