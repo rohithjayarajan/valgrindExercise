@@ -1,4 +1,4 @@
-# C++ Boilerplate
+# Valgrind Exercise
 [![Build Status](https://travis-ci.org/rohithjayarajan/valgrindExercise.svg?branch=master)](https://travis-ci.org/rohithjayarajan/valgrindExercise)
 [![Coverage Status](https://coveralls.io/repos/github/rohithjayarajan/valgrindExercise/badge.svg?branch=master)](https://coveralls.io/github/rohithjayarajan/valgrindExercise?branch=master)
 ---
